@@ -1,14 +1,14 @@
 # four-arithmatic-operation
 git practice in EDGE
 ## Installation
-'''shell
+```shell
 $ pip install python3
-'''
+```
 
 ## How to start
-'''shell
+```shell
 $python3 practice.py
-'''
+```
 
 ## Features
 - print 'Hello, Python!'
